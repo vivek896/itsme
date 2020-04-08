@@ -1,0 +1,20 @@
+﻿html, body{
+font-family: sans_serif;
+margin: 0;
+width: 100%;
+height: 100%;
+}
+h1{
+font-family: Palatino, 'Palatino Linotype', serif;
+font-size: 40px;
+color:rgb(210,130,310);
+}
+.main{
+     padding: 250px 0;
+	margin: 30px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+background-size: cover;
+  color: #ffffff
+}
+
